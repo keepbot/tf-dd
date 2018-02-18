@@ -53,3 +53,4 @@ $RECYCLE.BIN/
 # terraform.tfvars
 
 secrets
+secrets.auto.tfvars
