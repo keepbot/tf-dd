@@ -31,7 +31,7 @@ apt-get install -y gitlab-runner
 
 sudo gitlab-runner register \
   --url "https://gitlab.com/" \
-  --registration-token "1SdCxr_KJmxBkRa4AHgx" \
+  --registration-token "XXXXXXXXXXXXXXXXXX" \
   --description "docker-ruby-2.1" \
   --executor "docker" \
   --docker-image ruby:2.1 \
